@@ -18,7 +18,7 @@ serde_json = "1.0"
 
 You may be looking for:
 
-- [JSON API documentation](https://docs.rs/serde_json)
+- [Serde JSON API documentation](https://docs.rs/serde_json)
 - [Serde API documentation](https://docs.rs/serde)
 - [Detailed documentation about Serde](https://serde.rs/)
 - [Setting up `#[derive(Serialize, Deserialize)]`](https://serde.rs/derive.html)
